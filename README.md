@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
  ![snake gif](https://github.com/yebisu22/yebisu22/blob/output/github-contribution-grid-snake.gif)
 <!--
