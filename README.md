@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+ ![snake gif](https://github.com/yebisu22/yebisu22/blob/output/github-contribution-grid-snake.gif)
 <!--
 **yebisu22/yebisu22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
